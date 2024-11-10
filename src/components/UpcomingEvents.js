@@ -5,9 +5,9 @@ const UpcomingEvents = () => {
     <div className="card">
       < h2>Upcoming Events</h2>
       <ul>
-        <li>Meeting with Team - 10 AM, Oct 15</li>
-        <li>Project Deadline - Oct 20</li>
-        <li>Client Presentation - Oct 25</li>
+        <li>Hackathon - 10 AM, Dice Lab, Oct 15</li>
+        <li>Treasure Hunt - Alpha Zone, Oct 20</li>
+        <li>Avinya 2.0 - Pierre Hall Oct 25</li>
       </ul>
     </div>
   );
