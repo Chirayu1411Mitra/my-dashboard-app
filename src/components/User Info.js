@@ -5,8 +5,8 @@ const UserInfo = () => {
     <div className="card">
       <h2>User Info</h2>
       <p>Name: John Doe</p>
-      <p>Email: johndoe@example.com</p>
-      <p>Role: Administrator</p>
+      <p>Email: johndoe@example.com</p> 
+      <p>Membership: Elevate Professional</p>
     </div>
   );
 };
